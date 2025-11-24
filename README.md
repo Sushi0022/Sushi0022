@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/shadcn%2Fui-232741?style=for-the-badge&logo=shadcnui&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-232741?style=for-the-badge&logo=vercel&logoColor=white" />
 
-  <h3>Database</h3>
+  <h3>Databases</h3>
   <img src="https://img.shields.io/badge/MongoDB-232741?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-232741?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-232741?style=for-the-badge&logo=supabase&logoColor=white" />
@@ -36,5 +36,6 @@
     <img height="180em" src="https://github-readme-stats-two-nu-40.vercel.app/api?username=Sushi0022&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=ff8e3c&icon_color=4dfcff&text_color=ffffff&bg_color=45,0d1117,1a2b42" />
     <img height="180em" src="https://github-readme-stats-two-nu-40.vercel.app/api/top-langs/?username=Sushi0022&layout=compact&langs_count=6&hide_border=true&title_color=ff8e3c&icon_color=4dfcff&text_color=ffffff&bg_color=45,0d1117,1a2b42&hide=html" />
   </a>
+
 
 </div>
